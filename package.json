@@ -1,6 +1,6 @@
 {
   "name": "@dword-design/nuxt-refreshing-router",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "repository": "dword-design/nuxt-refreshing-router",
   "license": "MIT",
@@ -16,6 +16,9 @@
     "prepare": "base prepare",
     "prepublishOnly": "base prepublishOnly",
     "test": "base test"
+  },
+  "dependencies": {
+    "@dword-design/nuxt-push-plugins": "^1.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^6.1.0"

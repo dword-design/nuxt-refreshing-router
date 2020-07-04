@@ -1026,7 +1026,7 @@
     "@dword-design/functions" "^1.1.2"
     babel-plugin-module-resolver "^4.0.0"
 
-"@dword-design/functions@^1.1.2":
+"@dword-design/functions@^1.1.0", "@dword-design/functions@^1.1.2":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@dword-design/functions/-/functions-1.1.3.tgz#7a8fc3e4b0ba98aaf24804ea3cb8eb25c4b09a32"
   integrity sha512-CzDaAHhF56vLo/A9dFMJQil+2t88RufZbQzsG1aGM4lvEm0iwPAqXPYhnGeS4+vucbuqDIV3QJ3FiQXlOmtEoA==
@@ -1044,6 +1044,13 @@
     endent dword-design/endent#fork
     lodash "^4.17.15"
     tinycolor2 "^1.4.1"
+
+"@dword-design/nuxt-push-plugins@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@dword-design/nuxt-push-plugins/-/nuxt-push-plugins-1.0.0.tgz#7fdd1c9f30ba9cc6a26be4723c54c6dad2d8eb6d"
+  integrity sha512-fzvM/nPtrEqnNdTtHFzAdSmv2fiBSIH7qbbVuA4Y67mM1ffKhR0m7IFxfupLCGE+/Oqbx7tLVZcn32F3oPtbHA==
+  dependencies:
+    "@dword-design/functions" "^1.1.0"
 
 "@glimmer/env@0.1.7":
   version "0.1.7"
@@ -2887,12 +2894,7 @@ decode-uri-component@^0.2.0:
   resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
   integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
 
-dedent@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/dedent/-/dedent-0.7.0.tgz#2495ddbaf6eb874abb0e1be9df22d2e5a544326c"
-  integrity sha1-JJXduvbrh0q7Dhvp3yLS5aVEMmw=
-
-dedent@dword-design/dedent#fork:
+dedent@0.7.0, dedent@dword-design/dedent#fork:
   version "0.7.0"
   resolved "https://codeload.github.com/dword-design/dedent/tar.gz/c8d46e5017d60504657c2d01b59082c0329a12a7"
   dependencies:
@@ -3199,6 +3201,7 @@ end-of-stream@^1.0.0, end-of-stream@^1.1.0:
 
 endent@dword-design/endent#fork, "endent@github:dword-design/endent#fork":
   version "1.4.0"
+  uid be5433db67eaec07c6c9d00ba3bed2ed946dc664
   resolved "https://codeload.github.com/dword-design/endent/tar.gz/be5433db67eaec07c6c9d00ba3bed2ed946dc664"
   dependencies:
     dedent dword-design/dedent#fork
