@@ -1,9 +1,9 @@
-export default ({ app: { router } }) => {
+export default context => {
   if (process.client) {
-    router.beforeEach(({ fullPath }, from, next) => {
+    context.app.router.beforeEach((to, from, next) => {
       const currentPath = `${window.location.pathname}${window.location.search}${window.location.hash}`
-      if (currentPath !== fullPath) {
-        window.location.href = fullPath
+      if (currentPath !== to.fullPath) {
+        window.location.href = to.fullPath
         return
       }
       next()
