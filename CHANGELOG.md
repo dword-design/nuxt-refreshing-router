@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.2...v1.1.3) (2020-12-02)
+
+
+### Bug Fixes
+
+* **config:** Update changed files ([e1df415](https://github.com/dword-design/nuxt-refreshing-router/commit/e1df41516924953895403e3b4bda912f96bdd7ca))
+
 ## [1.1.2](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.1...v1.1.2) (2020-08-26)
 
 
