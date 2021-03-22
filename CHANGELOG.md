@@ -1,3 +1,10 @@
+## [1.1.6](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.5...v1.1.6) (2021-03-22)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#9](https://github.com/dword-design/nuxt-refreshing-router/issues/9)) ([1aba5d0](https://github.com/dword-design/nuxt-refreshing-router/commit/1aba5d03d3fcde7cb0bbcb5fc81445314264dd47))
+
 ## [1.1.5](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.4...v1.1.5) (2021-03-17)
 
 
