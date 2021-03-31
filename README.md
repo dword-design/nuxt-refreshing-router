@@ -64,7 +64,7 @@ $ yarn add @dword-design/nuxt-refreshing-router
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-refreshing-router/issues) or [pull request](https://github.com/dword-design/nuxt-refreshing-router/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/nuxt-refreshing-router/issues) or a [pull request](https://github.com/dword-design/nuxt-refreshing-router/pulls)! ⚙️
 
 ## Support
 
