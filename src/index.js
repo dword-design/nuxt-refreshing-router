@@ -1,4 +1,4 @@
-import pushPlugins from '@dword-design/nuxt-push-plugins'
+import pushPlugins from 'nuxt-push-plugins'
 
 export default function () {
   pushPlugins(this, require.resolve('./plugin'))
