@@ -1,3 +1,11 @@
+## [1.1.11](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.10...v1.1.11) (2021-04-22)
+
+
+### Bug Fixes
+
+* update config files ([ac6a1eb](https://github.com/dword-design/nuxt-refreshing-router/commit/ac6a1ebf2deca0edebc5fb98df7e251a15cc21cd))
+* updated package.json[description] ([#20](https://github.com/dword-design/nuxt-refreshing-router/issues/20)) ([1d06693](https://github.com/dword-design/nuxt-refreshing-router/commit/1d066937702f9fa7a157689062571dc3dcc61459))
+
 ## [1.1.10](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.9...v1.1.10) (2021-04-21)
 
 
