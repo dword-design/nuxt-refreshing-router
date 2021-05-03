@@ -1,3 +1,19 @@
+# [2.0.0](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.12...v2.0.0) (2021-05-03)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v8 ([#24](https://github.com/dword-design/nuxt-refreshing-router/issues/24)) ([b31ec7e](https://github.com/dword-design/nuxt-refreshing-router/commit/b31ec7ecdf3147ab402e4183e7a7b42a26e94237))
+
+
+### BREAKING CHANGES
+
+* require Node.js >= 12
+
+Co-authored-by: Renovate Bot <bot@renovateapp.com>
+Co-authored-by: Sebastian Landwehr <info@dword-design.de>
+Co-authored-by: GitHub Actions <actions@github.com>
+
 ## [1.1.12](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.11...v1.1.12) (2021-04-28)
 
 
