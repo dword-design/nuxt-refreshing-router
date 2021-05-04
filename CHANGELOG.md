@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/nuxt-refreshing-router/compare/v2.0.0...v2.0.1) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency nuxt-push-plugins to v2 ([#25](https://github.com/dword-design/nuxt-refreshing-router/issues/25)) ([933259a](https://github.com/dword-design/nuxt-refreshing-router/commit/933259a19b47bce2a139f595e28cee88ae68e4bc))
+
 # [2.0.0](https://github.com/dword-design/nuxt-refreshing-router/compare/v1.1.12...v2.0.0) (2021-05-03)
 
 
