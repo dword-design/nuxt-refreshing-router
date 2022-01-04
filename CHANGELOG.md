@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/dword-design/nuxt-refreshing-router/compare/v2.0.5...v2.0.6) (2022-01-04)
+
+
+### Bug Fixes
+
+* update config files ([e337fe6](https://github.com/dword-design/nuxt-refreshing-router/commit/e337fe69297c362874dd5566cadc816721fb3b21))
+
 ## [2.0.5](https://github.com/dword-design/nuxt-refreshing-router/compare/v2.0.4...v2.0.5) (2021-07-20)
 
 
