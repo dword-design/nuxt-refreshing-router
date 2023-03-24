@@ -7207,9 +7207,7 @@ npmlog@*, npmlog@^6.0.0:
     set-blocking "^2.0.0"
 
 nuxt-push-plugins@^2.0.0:
-  version "2.0.9"
-  resolved "https://registry.yarnpkg.com/nuxt-push-plugins/-/nuxt-push-plugins-2.0.9.tgz#faf9932fa97e2568fc08bef1e110576b673ffede"
-  integrity sha512-n5XarYrH5cpSlu3BUTNF4FceDKXAcTevdjxsRVC71u9PwLrBUbp4c171hPA9v6CnQXtrsyy4598bRcpw35O2hQ==
+  version "2.1.11"
   dependencies:
     "@dword-design/functions" "^4.0.0"
 
